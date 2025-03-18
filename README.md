@@ -16,7 +16,7 @@ Django
 
 ## 1. Clone the Repository
 
-git clone https://github.com/vermavaibhav23/django-task-management-system.git
+git clone https://github.com/vermavaibhav23/task-management-system-django.git
 cd django-task-management-system
 
 ## 2. Create and Activate a Virtual Environment
