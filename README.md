@@ -21,8 +21,8 @@ cd django-task-management-system
 
 ## 2. Create and Activate a Virtual Environment
 
-python -m venv venv
-source venv/bin/activate 
+* python -m venv venv
+* source venv/bin/activate 
 
 ## 3. Install Dependencies
 
@@ -30,9 +30,9 @@ pip install -r requirements.txt
 
 ## 4. Apply Migrations and Create Superuser
 
-python manage.py makemigrations
-python manage.py migrate
-python manage.py createsuperuser
+* python manage.py makemigrations
+* python manage.py migrate
+* python manage.py createsuperuser
 
 Follow the prompts to create an admin user.
 
